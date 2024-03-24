@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Currencies">
+        <item>"--Select the currency--"</item>
+        <item>"Dollar"</item>
+        <item>"Pound"</item>
+        <item>"Yen"</item>
+        <item>"Dhiram"</item>
+        <item>"Euro"</item>
+        <item>"Mexican Peso"</item>
+        <item>"Rubble"</item>
+    </string-array>
+</resources>
